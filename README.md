@@ -133,10 +133,11 @@ Some characters can shoot: aim with right analog stick or mouse.
 - [x] mouse aiming and click to fire
 
 
-## Credits
+## Credits 
 
-- BedsRoom Coding/Programming Update Manger
-
+  | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
+| :----------------------------------------------------------: | 
+|     [BedsRoom](https://github.com/bedsroom) |           
 
 **VERY IMPORTANT**
 
