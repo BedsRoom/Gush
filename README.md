@@ -2,6 +2,8 @@
 
 https://www.gush.cf
 
+Discord Server Coming Soon;
+
 ## Features
 - Seven playable characters with unique weapons
 - More than a dozen enemy types
