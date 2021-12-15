@@ -2,7 +2,8 @@
 
 https://www.gush.cf
 
-Discord Server Coming Soon;
+Discord Server https://www.discord.gg/9RWuuXU
+Or you may find it on the game loading screen
 
 ## Features
 - Seven playable characters with unique weapons
